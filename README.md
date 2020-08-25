@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Olá, meu nome é Gaby, atualmente sou estagiária em Desenvolvimento Front End. Estou no segundo semestre do curso de Análise e Desenvolvimento de Sistemas e entre as minhas skills estão:
+
+⚫️⚫️⚫️⚫️⚪️ HTML <br>
+⚫️⚫️⚫️⚫️⚪️ CSS  <br>
+⚫️⚫️⚫️⚪️⚪️Javascript <br>
+⚫️⚪️⚪️⚪️⚪️ Vue.Js <br>
+⚫️⚪️⚪️⚪️⚪️ Java <br>
+⚫️⚫️⚪️⚪️⚪️ Oracle Commerce Cloud  <br>
+⚫️⚫️⚪️⚪️⚪️ Knockout JS  <br>
