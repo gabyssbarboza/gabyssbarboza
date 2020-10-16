@@ -1,25 +1,12 @@
-### Hi there 👋
+<h2>Hi, i'm Gabys!
+<img src="https://thumbs.gfycat.com/SillyBetterEyra-small.gif" width="40">
+</h2>
 
-<!--
-**gabyssbarboza/gabyssbarboza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p><i>Software Analysis and Development student at Senac Santo Amaro
+<img src="https://lh3.googleusercontent.com/proxy/j5tylf3XAKzTrwY2rurXw73SEQ3Xo5VBSVDgXA6vHU2cmzBgTqBPCtnCfw4h_vxVfAJBYuG1Bepx-8Bz8Vnz5eSg" width="40">
+</i></p>
+<p><i>Front End Intern at Enext Consultoria
+<img src="https://i.pinimg.com/originals/e5/93/ab/e593ab0589d5f1b389e4dfbcce2bce20.gif" width="40">
+</i></p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-Olá, meu nome é Gaby, atualmente sou estagiária em Desenvolvimento Front End. Estou no segundo semestre do curso de Análise e Desenvolvimento de Sistemas e entre as minhas skills estão:
-
-⚫️⚫️⚫️⚫️⚪️ HTML <br>
-⚫️⚫️⚫️⚫️⚪️ CSS  <br>
-⚫️⚫️⚫️⚪️⚪️Javascript <br>
-⚫️⚪️⚪️⚪️⚪️ Vue.Js <br>
-⚫️⚪️⚪️⚪️⚪️ Java <br>
-⚫️⚫️⚪️⚪️⚪️ Oracle Commerce Cloud  <br>
-⚫️⚫️⚪️⚪️⚪️ Knockout JS  <br>
