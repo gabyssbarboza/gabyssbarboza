@@ -5,8 +5,10 @@
 <p><i>Software Analysis and Development student at Senac Santo Amaro
 <img src="https://lh3.googleusercontent.com/proxy/j5tylf3XAKzTrwY2rurXw73SEQ3Xo5VBSVDgXA6vHU2cmzBgTqBPCtnCfw4h_vxVfAJBYuG1Bepx-8Bz8Vnz5eSg" width="40">
 </i></p>
-<p><i>Front End Intern at Enext Consultoria
+<p><i>Front End Jr at Enext Consultoria
 <img src="https://i.pinimg.com/originals/e5/93/ab/e593ab0589d5f1b389e4dfbcce2bce20.gif" width="40">
 </i></p>
+
+
 
 
