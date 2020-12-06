@@ -22,7 +22,7 @@
 
 <br>
 <h2 align=center>About my skills
-<img src="https://i.gifer.com/1uK8.gif" width="40">
+<img src="https://3.bp.blogspot.com/-IpDMc0nvnR4/VVH9kT-uSKI/AAAAAAAAACo/5Yx71zrbHXI/s1600/bmo%2Bgif.gif" width="40">
 </h2>
 <p><i>Things that I know...</i>🌞</p>
 <p>
