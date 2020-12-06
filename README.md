@@ -7,11 +7,11 @@
 <br>
 <br>
 
-<h2 align=center>About me</h2>
+<h2 align=center>About me
+<img src="https://media1.tenor.com/images/a5d74aaf9f62c1dced035bede7514f77/tenor.gif?itemid=12821965" width="40">
+</h2>
 <br>
 <p><i>Things that I'm in love with... </i>❤️</p>
-
-<br>
 <p>🐾 Animals (including snakes)...<br>
 📚 Books (of course!)...<br>
 🏀 Sports (i'm pole dancer and a gym rat)...<br>
@@ -21,12 +21,10 @@
 👾 Videogames...</p>
 
 <br>
-<h2 align=center>About my skills</h2>
-
-<br>
+<h2 align=center>About my skills
+<img src="https://i.gifer.com/1uK8.gif" width="40">
+</h2>
 <p><i>Things that I know...</i>🌞</p>
-<br>
-
 <p>
 <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="max-width:100%;"> 
 
@@ -34,10 +32,8 @@
 
 <img height="20" src="https://e7.pngegg.com/pngimages/5/56/png-clipart-website-development-html5-logo-world-wide-web-consortium-world-wide-web-angle-web-design.png" style="max-width:100%;">
 </p>
-<br>
-<br>
+
 <p><i>Things that I'm learning...</i>👷</p>
-<br>
 <p>
 <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" style="max-width:100%;">
 <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" style="max-width:100%;">
