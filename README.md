@@ -8,11 +8,11 @@ let myself = {
     nome: 'Gabriely Cristina Barboza',
     nickname: 'Gabys',
     age: 22,
-    skills: ['React', 'Javascript', 'SASS', 'Styled Components', 'CSS', 'HTML', 'Git', 'Hooks'],
+    skills: ['React', 'Javascript', 'SASS', 'Styled Components', 'CSS', 'HTML', 'Git', 'Hooks', 'Typescript'],
     experience: 'a little more than 1 year', 
     things: {
-        books: Infinity,  //really, i love books
-        tattoos: 12,
+        books: "a lot of them",
+        tattos: 13,
         animals: ['Cat', 'Dog'],
         music: ['Metal', 'Pop', 'Jazz', 'Blues'],
         movies: ['Mad Max', 'IT', 'Doctor Sleep']
