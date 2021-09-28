@@ -9,7 +9,7 @@ let myself = {
     nickname: 'Gabys',
     age: 22,
     skills: ['React', 'Javascript', 'SASS', 'Styled Components', 'CSS', 'HTML', 'Git', 'Hooks', 'Typescript'],
-    experience: 'a little more than 1 year', 
+    experience: 'almost 2 years', 
     things: {
         books: Infinity,
         tattos: 13,
